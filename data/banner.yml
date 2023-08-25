@@ -6,9 +6,9 @@ subtitle: |
 content : |
   Our full website is under development, launching soon to serve the next generation of crypto businesses. Stay tuned!
   
-button:
-  label : "Get Started"
-  link : "#first"
+#button:
+#  label : "Get Started"
+#  link : "#first"
 image : "images/banner.jpg"
 
 

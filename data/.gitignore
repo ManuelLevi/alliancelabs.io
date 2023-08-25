@@ -1,0 +1,18 @@
+# Ignore generated content
+/public/
+/resources/
+
+# Ignore Hugo cache and temporary files
+/resources/_gen/
+/resources/_current/
+
+# Ignore any local configuration files
+/config.toml
+
+# Ignore private files or sensitive data
+private.txt
+secrets/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
